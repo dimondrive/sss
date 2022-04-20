@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#gameTable{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.gameTable-title{
+   padding-bottom: 10px;
+}
+
+.card-item-right{
+    width: 90px;
+    float: left;
+   
+}
+.tutorial-card-item{
+    margin-bottom: 44px;
+}
+.card-item-title{
+    margin-left: 115px;
+    max-width: 785px;
+}
+
+.cards-foto img{
+    width: 78px;
+    height: 106px;
+    background-size: cover;
+}
+.cards-foto{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 95px;
+}
+
+
+.card-image11{
+    width: 100px;
+    float: right;
+}
